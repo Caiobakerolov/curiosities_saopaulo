@@ -17,6 +17,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 2rem;
 }
 
+iframe {
+  width: 90%;
+}
+
 .bi-globe-americas {
   color: #fff;
 }
