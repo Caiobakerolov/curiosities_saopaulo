@@ -94,4 +94,8 @@ span {
   .division {
     margin-bottom: 3rem;
   } 
+
+  .card-footer p {
+    text-align: center;
+  }
 }
